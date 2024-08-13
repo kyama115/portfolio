@@ -101,3 +101,6 @@ GoogleFormによるお問い合わせ機能
 
 ■ 画面変移図
 https://www.figma.com/design/Rqp7uVZ7bU2bt3Bk4AQLpz/%E7%84%A1%E9%A1%8C?node-id=0-1&t=lyeRkBFeAAcKoP1l-1
+
+■ ER図
+https://lucid.app/lucidchart/1b58298b-a367-4816-9f21-864a61b4047d/edit?viewport_loc=-2571%2C-63%2C2644%2C1014%2C0_0&invitationId=inv_0a4877a6-67dc-4c49-b9b2-2e386f70286d
