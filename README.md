@@ -76,7 +76,7 @@ TailwindCSSによるcssフレームワーク
 会員登録・ログイン
 レビュー機能
 お気に入り機能
-SNS連携機能
+SNS(X,Instagram等)連携機能
 
 ◼️ 高度な機能
 Google places API（店舗情報）
